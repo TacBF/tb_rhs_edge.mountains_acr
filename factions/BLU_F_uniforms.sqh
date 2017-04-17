@@ -1,0 +1,66 @@
+// USA - Army (UCP)
+// Author: Cole
+
+uniforms[] =
+{
+// UNIFORMS
+	
+	// Infantry
+	{"U_Afghan01NH", {__ICE_gear_allRoles}},
+	{"U_I_G_resistanceLeader_F", {__ICE_gear___allRoles}},
+	{"U_Afghan06NH", {__ICE_gear_allRoles}},
+	{"U_Afghan02NH", {__ICE_gear_allRoles}},
+	{"rhsgref_uniform_para_ttsko_oxblood", {__ICE_gear_allRoles}},
+	{"rhsgref_uniform_reed", {__ICE_gear_allRoles}},
+	{"rhsgref_uniform_specter", {__ICE_gear_Diver}},
+	{"rhsgref_uniform_ttsko_urban", {__ICE_gear_Crewman}},
+		
+	// Sniper
+	{"U_O_FullGhillie_ard", {__ICE_gear_Sniper}},
+	{"U_O_FullGhillie_lsh", {__ICE_gear_Sniper}},
+	{"rhsgref_uniform_specter", {__ICE_gear_Sniper}},
+		
+	// Pilot
+	{"rhs_uniform_df15", {__ICE_gear_Pilot}},
+
+// VESTS
+	
+	// Infantry
+	{"rhsgref_6b23_khaki_medic", {__ICE_gear_Medic}},
+	{"rhsgref_6b23_khaki", {__ICE_gear_MG}},
+	{"rhs_6sh92", {__ICE_gear_allRoles}},
+	{"rhs_6sh92_vog", {__ICE_gear_Grenadier}},
+	{"rhsusf_iotv_ocp_SAW", {__ICE_gear_CombatEngineer}},
+	{"rhs_6sh92_radio", {__ICE_gear_SL}},
+	{"rhs_6sh92", {__ICE_gear_Sniper}},
+    {"rhsusf_spc_light", {__ICE_gear_Diver}},
+	{"rhs_vest_commander", {__ICE_gear_Crewman}},
+	{"V_HarnessO_gry", {__ICE_gear_Marksman}},
+		
+	// Pilot
+	{"rhs_vydra_3m", {__ICE_gear_Pilot}},
+
+// HELMETS
+	
+	// Infantry
+	{"Afghan_04Hat", {__ICE_gear_Inf}},
+	{"rhsgref_ssh68_ttsko_mountain", {__ICE_gear_Inf}},
+	{"rhsusf_ach_helmet_camo_ocp", {__ICE_gear_Inf}},
+	{"rhs_booniehat2_marpatd", {__ICE_gear_Diver}},
+	{"Afghan_01Hat", {__ICE_gear_Inf}},
+	{"rhsgref_fieldcap_ttsko_urban", {__ICE_gear_Inf}},
+	{"rhs_8point_marpatd", {__ICE_gear_SL}},
+	{"rhsusf_bowman_cap", {__ICE_gear_Marksman, __ICE_gear_Sniper}},
+		
+	// Crewman
+	{"rhs_beanie_green", {__ICE_gear_Crewman}},
+    {"rhs_ess_black", {__ICE_gear_Crewman}},
+	
+	// Pilot
+	{"rhs_zsh7a_mike", {__ICE_gear_Pilot}},
+	
+// GLASSES
+    {"rhs_balaclava", {__ICE_gear_Diver}},
+	{"G_Aviator", {__ICE_gear_allRoles}},
+	{"G_Balaclava_blk", {__ICE_gear_allRoles}},
+};
